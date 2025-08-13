@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Welcome
 ---
+欢迎来到WinterXorSnow's Blog！
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[我的洛谷账号](https://www.luogu.com.cn/user/754931)
+
+[我的博客园](https://www.cnblogs.com/WinterXorSnow)
+
+[我的GitHub账号](https://github.com/WinterXorSnow)
