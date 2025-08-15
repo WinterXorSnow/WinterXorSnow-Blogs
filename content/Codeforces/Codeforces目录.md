@@ -1,2 +1,3 @@
-散题：
-[[CF794C Naming Company 题解]]
+- 思维题(1700-1900)
+	- [[CF1699C The Third Problem题解]]
+	- [[CF794C Naming Company 题解]]
