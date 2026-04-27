@@ -8,7 +8,7 @@ title: Welcome
 
 [我的luogu账号](https://www.luogu.com.cn/user/754931)（欢迎互关）
 
-[我的博客园](https://www.cnblogs.com/WinterXorSnow)
+[我的博客园](https://www.cnblogs.com/WinterXorSnow)(在cnblogs上)
 
 ---
 
